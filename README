@@ -1,0 +1,27 @@
+Teniendo el código fuente de nuestro primer programa en el archivo antes indicado, para poder ejecutarlo antes tendremos que compilarlo. En realidad, este paso no es imprescindible si tenemos una versión de Java 11 o posterior, en cuyo caso para ejecutar nuestro programa basta la orden java HolaJava.java. La ejecución inmediata de un programa, de esta forma, solo es posible si todo su código está contenida en un solo módulo.
+
+Para compilar el programa usaremos el compilador de Java (javac), facilitándole como parámetro el nombre completo del archivo. Si todo va bien, y el compilador no produce ningún tipo de salida por la consola, se habrá creado un archivo con el mismo nombre que el original pero extensión .class, tal y como se aprecia en la siguiente imagen
+
+java HolaJava.java
+ Hola Java desde campusMVP
+ 
+java HolaJava.class
+java HolaJava
+Hola Java desde campusMVP
+
+
+
+jshell es el interprete de linea de comandos de java.
+Nos permite ejecutar directamente instrucciones ahi
+jshell -q
+System.out.println("Hola Java desde campusMVP")
+Hola Java desde campusMVP
+/ex
+
+
+
+/vars
+/methods
+/edit + funcion a modificar
+/list (comandos utilizados en la sesion)
+/imports (paquetes importados en la sesion)
