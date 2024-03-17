@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Modulo 2/TiposEstructurados/TiposEstructurados.iml" filepath="$PROJECT_DIR$/Modulo 2/TiposEstructurados/TiposEstructurados.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Modulo 2/app_cobros_pagos/app_cobros_pagos.iml" filepath="$PROJECT_DIR$/Modulo 2/app_cobros_pagos/app_cobros_pagos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-beginner.iml" filepath="$PROJECT_DIR$/java-beginner.iml" />
+    </modules>
+  </component>
+</project>
